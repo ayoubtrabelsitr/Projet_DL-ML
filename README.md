@@ -4,7 +4,7 @@ Ce projet est une implémentation en Python des méthodes des K Plus Proches Voi
 
 ## Partie 1 : Implémentation des méthodes des K Plus Proches Voisins et du Perceptron en Python
 
-Cette partie du projet contient les implémentations en Python des algorithmes des K Plus Proches Voisins et du Perceptron. Ces algorithmes sont utilisés dans la construction du système Anti-Spam.
+Cette partie du projet contient les implémentations en Python des algorithmes des K Plus Proches Voisins et du Perceptron.
 
 ## Partie 2 : Construction d’un Anti-Spam
 
