@@ -1,5 +1,0 @@
--Partie 1 : Impl´ementation des m´ethodes des K Plus Proches Voisins et du Perceptron en Python.
--Partie 2 : Construction d’un Anti-Spam bas´e sur :
-— Un r´eseau de neurones sans couches cach´ees
-— Un r´eseau de neurones avec une couche cach´ee
-— Un classifieur de type Bayes nai
